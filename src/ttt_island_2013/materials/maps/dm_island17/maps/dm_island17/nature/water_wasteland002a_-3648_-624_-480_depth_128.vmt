@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/dm_island17/nature/water_wasteland002a_-3648_-624_-480.vmt"
+	"insert"
+	{
+		"$waterdepth"		"128"
+	}
+}

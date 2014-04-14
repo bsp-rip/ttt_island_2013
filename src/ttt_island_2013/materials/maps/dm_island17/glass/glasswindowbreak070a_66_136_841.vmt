@@ -1,0 +1,9 @@
+"patch"
+{
+	"include"		"materials/GLASS/GLASSWINDOWBREAK070A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_island17/c66_136_841"
+		"$crackmaterial"		"maps/dm_island17/glass/glasswindowbreak070b_66_136_841"
+	}
+}

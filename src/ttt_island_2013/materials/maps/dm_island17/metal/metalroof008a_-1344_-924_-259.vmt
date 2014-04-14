@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALROOF008A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_island17/c-1344_-924_-259"
+	}
+}

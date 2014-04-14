@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/NATURE/WATER_WASTELAND002A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_island17/c-3648_-624_-480"
+		"Proxies"
+		{
+		}
+	}
+}

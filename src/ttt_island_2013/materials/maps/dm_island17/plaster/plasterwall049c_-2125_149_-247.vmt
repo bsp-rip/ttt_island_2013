@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/PLASTER/PLASTERWALL049C.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_island17/c-2125_149_-247"
+	}
+}
